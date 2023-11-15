@@ -1,3 +1,6 @@
 first step in git
 
 for got to addd tyhis
+
+checking stash command
+its working fine 
