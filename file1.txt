@@ -6,3 +6,5 @@ checking stash command
 its working fine 
 
 modifying in master branch
+
+added content in feature branch
