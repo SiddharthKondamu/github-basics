@@ -2,3 +2,6 @@ second file
 
 
 second commit
+
+
+updating file2 from feature2 branch
